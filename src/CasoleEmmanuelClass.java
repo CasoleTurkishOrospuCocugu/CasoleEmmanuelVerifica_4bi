@@ -19,9 +19,9 @@ public class CasoleEmmanuelClass {
 	 * @return prodotto
 	 */
 		public int casoleMet(int s,int f) {
-			int r=0;
-			for(int i=1; i<f;i++) {
-				r = r + r;
+			int r=210;
+			for(int i=0; i<f;i++) {
+				r = s * f;
 			}
 			return r;
 		}
