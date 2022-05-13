@@ -18,10 +18,10 @@ public class CasoleEmmanuelClass {
 	 * @param f indice finale
 	 * @return prodotto
 	 */
-		public int casoleMet(int s,int f) {
-			int r=210;
-			for(int i=0; i<f;i++) {
-				r = s * f;
+		public int casoleMet(int s, int f) {
+			int r=1;
+			for(int i=f; i<s;i++) {
+				r = r * i;
 			}
 			return r;
 		}

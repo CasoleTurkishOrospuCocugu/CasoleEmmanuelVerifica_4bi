@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"CasoleEmmanuelClass","l":"CasoleEmmanuelClass()"},{"p":"<Unnamed>","c":"CasoleEmmanuelClass","l":"casoleMet(int, int)"},{"p":"<Unnamed>","c":"CasoleEmmanuelClass","l":"main(String[])","url":"main-java.lang.String:A-"}]
